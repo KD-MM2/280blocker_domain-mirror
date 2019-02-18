@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-02-04
+# Lastupdate: 2019-02-17
 #
 
 googleadservices.com
@@ -1135,9 +1135,10 @@ sin.creativecdn.com
 pixel.tapad.com
 sync.aralego.com
 eb2.3lift.com
-spotx.tv
-spotxchange-a.akamaihd.net
 logv2.r-oo.jp
 trj.valuecommerce.com
-static.ad-lancers.jp
 img.aread.site
+nornelis.pw
+player.performgroup.com
+analytics.grupogodo.com
+anonymousdemographics.com
