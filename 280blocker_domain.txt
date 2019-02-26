@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-02-17
+# Lastupdate: 2019-02-23
 #
 
 googleadservices.com
@@ -1139,6 +1139,7 @@ logv2.r-oo.jp
 trj.valuecommerce.com
 img.aread.site
 nornelis.pw
-player.performgroup.com
 analytics.grupogodo.com
 anonymousdemographics.com
+bidgear.com
+i.popincdn.com
