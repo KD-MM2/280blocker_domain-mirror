@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-02-23
+# Lastupdate: 2019-03-06
 #
 
 googleadservices.com
@@ -1143,3 +1143,17 @@ analytics.grupogodo.com
 anonymousdemographics.com
 bidgear.com
 i.popincdn.com
+js.batis.vip
+x-storage-a1.cir.io
+2lwlh385os.com
+ca.clcknads.pro
+aphookkensidah.pro
+spot-01.trackingpro.pro
+srv.bebi.com
+s3.buysellads.com
+adxxx.me
+fingahvf.top
+6ped2nd3yp.com
+smopy.com
+adtrue.com
+
