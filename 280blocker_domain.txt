@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-03-06
+# Lastupdate: 2019-03-11
 #
 
 googleadservices.com
@@ -879,7 +879,6 @@ js.mulan.cloud
 xn--zuzy24d.co
 multiquicks.net
 ad.unispire.jp
-delivery.satr.jp
 gstaticadssl.l.google.com
 analysiswebtool.com
 web-analysis.click
@@ -1156,4 +1155,9 @@ fingahvf.top
 6ped2nd3yp.com
 smopy.com
 adtrue.com
-
+d2swpuhpwp3khd.cloudfront.net
+nxcount.com
+crwdcntrl.net
+mahimeta.com
+aniview.com
+run-syndicate.com
