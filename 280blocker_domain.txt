@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-03-11
+# Lastupdate: 2019-03-24
 #
 
 googleadservices.com
@@ -1161,3 +1161,10 @@ crwdcntrl.net
 mahimeta.com
 aniview.com
 run-syndicate.com
+bdv.bidvertiser.com
+pushance.com
+tharbadir.com
+go.oclasrv.com
+58040d4c01949f0c1.com
+js.winc-ad.com
+fam-8.net
