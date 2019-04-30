@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-04-15
+# Lastupdate: 2019-04-29
 #
 
 googleadservices.com
@@ -221,7 +221,6 @@ api.cho-ro.club
 api.gameanalytics.com
 api.inwemo.com
 api.primecaster.net
-api.triver.jp
 api.uca.cloud.unity3d.com
 api.webpush.jp
 aplkp.valuecommerce.com
