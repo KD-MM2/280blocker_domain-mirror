@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-04-29
+# Lastupdate: 2019-05-10
 #
 
 googleadservices.com
@@ -255,8 +255,6 @@ b92.yahoo.co.jp
 b97.yahoo.co.jp
 ba.afl.rakuten.co.jp
 banner.blogranking.net
-bc.geocities.yahoo.co.jp
-bc-geocities.yahoo.co.jp
 bc.atleit.com
 bead-ad.com
 bibincom.com
