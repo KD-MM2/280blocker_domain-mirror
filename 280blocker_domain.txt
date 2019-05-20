@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-05-10
+# Lastupdate: 2019-05-20
 #
 
 googleadservices.com
@@ -1164,3 +1164,4 @@ tharbadir.com
 go.oclasrv.com
 js.winc-ad.com
 fam-8.net
+ad.rarure.com
