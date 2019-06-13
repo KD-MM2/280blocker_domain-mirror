@@ -1,14 +1,15 @@
-﻿# 280blocker adblock domain lists
+﻿# 280blocker adblock domain lists 
 # 
 # Homepage: https://280blocker.net
 # Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 # 
-# It's created for Japanese user of DNSCloak, AdguardPro(iOS), Adguard Home, or Adhell.
+# It's created for Japanese user of domain block.
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-05-20
+# Lastupdate: 2019-06-10
 #
+
 
 googleadservices.com
 pagead2.googlesyndication.com
@@ -1165,3 +1166,8 @@ go.oclasrv.com
 js.winc-ad.com
 fam-8.net
 ad.rarure.com
+s.storage-ad.com
+dis.hogei.info
+pr.hogei.info
+ads.mulan.cloud
+line-cross.com
