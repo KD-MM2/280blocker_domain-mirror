@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-06-10
+# Lastupdate: 2019-06-23
 #
 
 
@@ -81,7 +81,6 @@ ad.internetcom.jp
 ad.jorudan.co.jp
 ad.jp.ap.valuecommerce.com
 ad.mediba.jp
-ad.mobadme.jp
 ad.netowl.jp
 ad.pitta.ne.jp
 ad.plus-a.net
@@ -1171,3 +1170,7 @@ dis.hogei.info
 pr.hogei.info
 ads.mulan.cloud
 line-cross.com
+invocation.cheqzone.com
+trc.pitadtag.jp
+abema-adx.ameba.jp
+js.rush-member.com
