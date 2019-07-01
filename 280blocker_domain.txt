@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-06-23
+# Lastupdate: 2019-06-29
 #
 
 
@@ -183,7 +183,6 @@ adtracker.jp
 adultmild.com
 adultsuns.net
 adv.mobsmart.net
-advertising.com
 advertising.jp.msn.com
 advisionclick.yicha.jp
 advisionweb.yicha.jp
@@ -1174,3 +1173,22 @@ invocation.cheqzone.com
 trc.pitadtag.jp
 abema-adx.ameba.jp
 js.rush-member.com
+supersonicads.com
+tapjoy.com
+cdn-api.admost.com
+med-api.admost.com
+sdk.adtiming.com
+supersonicads-a.akamaihd.net
+logs.supersonic.com
+goliath.bi.miniclippt.com
+smartadserver.com
+addelivery-engine-api.voodoo-ads.io
+front-logs.voodoo-ads.io
+live.chartboost.com
+sdk.adincube.com
+ads.bulldogcpi.com
+ads.chartboosts.com
+impression.appsflyer.com
+trackers.voodoo-analytics.io
+
+
