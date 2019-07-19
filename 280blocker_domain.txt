@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-06-29
+# Lastupdate: 2019-07-16
 #
 
 
@@ -1190,5 +1190,7 @@ ads.bulldogcpi.com
 ads.chartboosts.com
 impression.appsflyer.com
 trackers.voodoo-analytics.io
-
-
+ad.2ch.live
+log.pinterest.com
+api.adsnative.com
+api.adxcorp.kr
