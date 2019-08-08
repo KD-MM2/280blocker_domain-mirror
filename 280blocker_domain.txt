@@ -7,11 +7,10 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-07-16
+# Lastupdate: 2019-07-23
 #
 
 
-googleadservices.com
 pagead2.googlesyndication.com
 exosrv.com
 omtrdc.net
@@ -861,7 +860,6 @@ ad.adpon.jp
 srv1.aaacompany.net
 gum.xbooks.to
 delivery.adrecover.com
-popcash.net
 candy-network.com
 img-space.net
 lamp-shade.net
@@ -1194,3 +1192,6 @@ ad.2ch.live
 log.pinterest.com
 api.adsnative.com
 api.adxcorp.kr
+
+
+# googleadservices.com
