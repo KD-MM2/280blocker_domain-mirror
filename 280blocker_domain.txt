@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-07-23
+# Lastupdate: 2019-08-09
 #
 
 
@@ -681,7 +681,6 @@ trackfeed.com
 trackword.net
 tradedoubler.com
 trafficfactory.biz
-trafficgate.net
 traffichaus.com
 trafficjunky.net
 trafficstars.com
@@ -1192,6 +1191,12 @@ ad.2ch.live
 log.pinterest.com
 api.adsnative.com
 api.adxcorp.kr
-
+js-sdk-crossmedia.ec-concier.com
+newmayads.com
+seaofads.com
+onclicksuper.com
+ie8eamus.com
 
 # googleadservices.com
+# trafficgate.net
+
