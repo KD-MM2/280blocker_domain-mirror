@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-08-26
+# Lastupdate: 2019-09-09
 #
 
 
@@ -706,7 +706,7 @@ webpush-cdn.mobify.net
 webtracker.jp
 webtrackerplus.com
 webtrendslive.com
-widget.iid-networkf.jp
+widget.iid-network.jp
 ww6z7lrg3a.top
 wwwpromoter.com
 x-lift.jp
@@ -1203,6 +1203,10 @@ optad360.io
 nt.compass-fit.jp
 rs917bem.com
 nn3h953s.com
+native.propellerads.com
+vpn1service.com
+promo.verajohn.com
+bestlandcn.com
 
 # googleadservices.com
 # trafficgate.net
