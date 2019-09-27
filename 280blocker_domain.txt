@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-09-09
+# Lastupdate: 2019-09-23
 #
 
 
@@ -1207,6 +1207,7 @@ native.propellerads.com
 vpn1service.com
 promo.verajohn.com
 bestlandcn.com
+alxc.addlv.smt.docomo.ne.jp
 
 # googleadservices.com
 # trafficgate.net
