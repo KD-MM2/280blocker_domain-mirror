@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-09-23
+# Lastupdate: 2019-10-05
 #
 
 
@@ -1208,6 +1208,18 @@ vpn1service.com
 promo.verajohn.com
 bestlandcn.com
 alxc.addlv.smt.docomo.ne.jp
+s-onetag.com
+analytics.yahoo.com
+geo.yahoo.com
+prism.pandora.tv
+cdnprism.pandora.tv
+demand.supply
+xgrwjbui.top
+s24hc8xzag.com
+adtng.com
+advimg.ad-mapps.com
+hyperpromote.com
+spotxchange.com
 
 # googleadservices.com
 # trafficgate.net
