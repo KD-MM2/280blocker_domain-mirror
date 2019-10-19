@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-10-05
+# Lastupdate: 2019-10-17
 #
 
 
@@ -1220,6 +1220,7 @@ adtng.com
 advimg.ad-mapps.com
 hyperpromote.com
 spotxchange.com
+intergi.com
 
 # googleadservices.com
 # trafficgate.net
