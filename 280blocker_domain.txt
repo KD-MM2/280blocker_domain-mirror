@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-10-17
+# Lastupdate: 2019-10-27
 #
 
 
@@ -1221,6 +1221,13 @@ advimg.ad-mapps.com
 hyperpromote.com
 spotxchange.com
 intergi.com
+steepto.com
+io.narrative.io
+pippio.com
+deloplen.com
+infolinks.com
+torimochi-ad.net
+propellerclick.com
 
 # googleadservices.com
 # trafficgate.net
