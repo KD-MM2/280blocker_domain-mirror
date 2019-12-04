@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-11-07
+# Lastupdate: 2019-11-29
 #
 
 
@@ -888,7 +888,6 @@ whos.amung.us
 crosspromo.voodoo.io
 cdn.tynt.com
 ams900.goo.ne.jp
-nakanohito.jp
 rtb.nativeads.com
 get.mobu.jp
 ads-tr.bigmining.com
@@ -1233,4 +1232,6 @@ reajyu.net
 
 # googleadservices.com
 # trafficgate.net
+# nakanohito.jp
+
 
