@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-11-29
+# Lastupdate: 2019-12-12
 #
 
 
@@ -1229,6 +1229,7 @@ torimochi-ad.net
 propellerclick.com
 statsforads.com
 reajyu.net
+api.kaiu-marketing.com
 
 # googleadservices.com
 # trafficgate.net
