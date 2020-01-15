@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2019-12-12
+# Lastupdate: 2020-01-05
 #
 
 
@@ -66,19 +66,16 @@ ad.axyzconductor.jp
 ad.brainer.jp
 ad.cq-andc.jp
 ad.dlbooks.to
-ad.dmm.com
 ad.douga-kan.com
 ad.dropbooks.tv
 ad.duga.jp
 ad.goo.ne.jp
 ad.goodad.jp
 ad.gunosy.com
-ad.hatena.ne.jp
 ad.heypo.com
 ad.impressbm.co.jp
 ad.internetcom.jp
 ad.jorudan.co.jp
-ad.jp.ap.valuecommerce.com
 ad.mediba.jp
 ad.netowl.jp
 ad.pitta.ne.jp
@@ -87,7 +84,6 @@ ad.response.jp
 ad.somewrite.jp
 ad.sp.mbga.jp
 ad.val.jp
-ad.valuecommerce.com
 ad.webdice.jp
 ad.wiredvision.jp
 ad.xdomain.ne.jp
@@ -142,7 +138,6 @@ adpix.jp
 adplan-ds.com
 adplatform.jp
 adpon.net
-adpresso.valuecommerce.com
 adpriv.nikkei.com
 adrcf.com
 adresult-sp.jp
@@ -191,12 +186,9 @@ advpic.yicha.jp
 adxpansion.com
 adxxx.org
 adzerk.net
-af-110.com
-af.moshimo.com
 aff.jskyservices.com
 affil.jp
 affiliate.dtiserv.com
-affiliate.rakuten.co.jp
 affiliateone.jp
 afte.mopo.jp
 aid-ad.jp
@@ -204,7 +196,6 @@ aimg.fc2.com
 aja-recommend.com
 aka-uae-dl.uliza.jp
 alogs.umengcloud.com
-aml.valuecommerce.com
 amoad.com
 analytics.cocolog-nifty.com
 analytics.qlook.net
@@ -221,10 +212,8 @@ api.inwemo.com
 api.primecaster.net
 api.uca.cloud.unity3d.com
 api.webpush.jp
-aplkp.valuecommerce.com
 app-c.net
 app-measurement.com
-app.adjust.com
 appad.click
 appad02.mbsp.jp
 appier.mobi
@@ -295,7 +284,6 @@ clickadu.com
 clksite.com
 cloudmobi.net
 cnhv.co
-cnt.affiliate.fc2.com
 cocoad.jp
 coin-have.com
 coin-hive.com
@@ -354,7 +342,6 @@ exoclick.com
 eyeota.net
 fam-ad.com
 fam-movie.com
-fancrew.jp
 feed.mikle.com
 fine-tv.net
 fivecdm.com
@@ -428,7 +415,6 @@ innovate-blog.info
 interstitial.fyber.com
 iogous.com
 iwanttodeliver.com
-j-a-net.jp
 j.gmodmp.jp
 j.image-ad.jp
 j.somewrite.jp
@@ -460,9 +446,6 @@ ladsp.com
 lead-ad.jp
 leadin.com
 leaffi.jp
-link-a.net
-linkshare.com
-linkshare.ne.jp
 listat.biz
 livead.jp
 liveads.jp
@@ -535,7 +518,6 @@ oclaserver.com
 oct-pass.net
 octopuspop.com
 odnlj.snap-affairs.com
-omks.valuecommerce.com
 omotenashi.cygames.jp
 omt.shinobi.jp
 onclickads.net
@@ -824,7 +806,6 @@ bnserving.com
 video.unrulymedia.com
 manga.boy.jp
 next-channel.xyz
-banner.cybershop-affiliate.jp
 pfx.sma-clsystem.info
 effectivemeasure.net
 ad-nex.com
@@ -891,7 +872,6 @@ ams900.goo.ne.jp
 rtb.nativeads.com
 get.mobu.jp
 ads-tr.bigmining.com
-sdk.ad.smaato.net
 adserver.cxad.cxense.com
 adprovider.maru.jp
 wt.adctrl.com
@@ -925,185 +905,11 @@ evertherenous.info
 boudja.com
 ads.exdynsrv.com
 t.net-ap19.stream
-2016monclerselltokyo.net
-2017supremetokyo.com
-2017bootsjapan.com
-abc-adidas.com
-adidassneakersjapann.com
-aldantownwatch.com
-affordjabc.top
-acuio.org
-aquatas.com
-australiabootssalejp.com
-bag-hermes.com
-bagkakaku.com
-bagsyo.com
-bagshop78.com
-bellaveiskincare.com
-bestcopys.com
-birkin30.com
-boots1000.com
-brandcopy2016.com
-brandedcorner.com
-brandheya.com
-brandparis6.com
-breeree.com
-burandsale.com
-buyma.site
-buytowe.com
-bvlgarijapan.com
-c-web.biz
-camstaterep.com
-caycecole.com
-celine-japan.com
-chez-lai.com
-chibauni.com
-ciltbakimiveguzellik.com
-clinexcel.com
-coach-japan.com
-coatnihon.com
-coolkaba.com
-ctibrc.org
-cynergyper4mers.com
-deborahcoelho.com
-dgauda.com
-dinermuseum.com
-diogene99.com
-darknagar.ru
-dokei777.com
-dragontechs.com
-edu-huayu.com
-enlvs.com
-eurocentrichandbags.com
-evelynswonderland.com
-flagshipband.com
-flighttocapetown.com
-genuinelouisvuitton.com
-gardeningst.men
-gobuy678.com
-grvspn.com
-guccimenjpsale.com
-gutebaby.com
-grangehillsurgery.co.uk
-hermesmax.com
-hamalibg.biz
-hostalelcandil.com
-hicopys.net
-i-you-i.com
-icoolauto.com
-ilvjp.com
-iphoneswitch.com
-j5sf.com
-japanshopstyle.com
-jennus.com
-jfashop.net
-jilliancamwell.com
-jjkopi.com
-jleagueshop.com
-jonpoor.com
-jleagueuniform.com
-jpbands2020.com
-kakabrands.org
-kankokukopi.com
-kikuku.net
-komostyle.com
-kokokujp.top
-kushyma.com
-lafondabr.com
-likekopi.com
-lkjy.net
-longchampukhandbags.com
-louis-360.com
-laptopscreen.jp
-louisale.store
-moncler.onlineshop.jp.net
-lux-gokujo.com
-lv-guccl88.com
-lvbagonsale.com
-lveif.com
-lvk7.com
-lvnkad.com
-lvreig.net
-m1700.com
-maikiki.com
-mamairma.info
-man-live.ru
-methuenrestaurantweek.com
-mikopi.com
-mjjbag78.com
-mobydickgozo.com
-momocak.com
-man-live.co
-monclerdown2014.com
-mortchiropractic.com
-msaletoo.com
-mvpnba.com
-mybgbgclojp.com
-newyorksportsworld.com
-nrelievedbrand.com
-nutrired.org
-officehelptogo.com
-ok-outlet.com
-oneminuteplayfestival.org
-northlandtimeshares.com
-onyxalliance.org
-osakadepo.com
-nmejrb.com
-outtogetme.com
-ozkaltd.com
-palazzogrimani.org
-peppertreefrosty.com
-pickgolfup.com
-pszsri.com
-pumashopjapan.com
-positiveedgetutoring.co.uk
-rakkuten.space
-renewingfaces.com
-repurikakamire.com
-robertsguide.com
-rodrigoeberienos.com
-rushmyrepair.com
-saifudesigner.com
-sakuraboxs.com
-sale8899.com
-sales-bicyclewebstore.top
-shoeswars.com
-shop-sis.com
-sakuraset.top
-smetn.com
-sneakerheadclub.com
-sneakersjapanu.com
-snicases.com
-speeddtc.com
-sportscatchup.com
-sportseve.com
-steadypaddling.com
-storecor.net
-styleja.com
-stylesfashionstore.com
-teddyni.com
-top-kopi.net
-toryburchoutlet.info
-uggbootsjapan.net
-unifomushop.com
-uniform-fc.com
-urbntouch.com
-vanlai.com
-vuitton-love.com
-variedshops.men
-vuittonfans.com
-vuittonu.com
-watch9.com
-yahhooo.net
-youthrenewphyto.com
-ysloutletbags.com
-yuibo.com
 ad.ddo.jp
 localytics.com
 n.pc1ads.com
 ads.admarvel.com
 ads.servebom.com
-baseballkathyy.ml
 xmax.jp
 lpdk.net
 osiete-k.com
@@ -1127,7 +933,6 @@ pixel.tapad.com
 sync.aralego.com
 eb2.3lift.com
 logv2.r-oo.jp
-trj.valuecommerce.com
 img.aread.site
 nornelis.pw
 analytics.grupogodo.com
@@ -1230,9 +1035,36 @@ propellerclick.com
 statsforads.com
 reajyu.net
 api.kaiu-marketing.com
+cadsecs.com
+bilsyndication.com
+madcpms.com
+ad.smaato.net
+guce.engadget.com
+ads.nicovideo.jp
+px.ads.linkedin.com
+adpon-prd-asset.sslcs.cdngc.net
+
 
 # googleadservices.com
 # trafficgate.net
 # nakanohito.jp
-
-
+# app.adjust.com
+# affiliate.rakuten.co.jp
+# fancrew.jp
+# trj.valuecommerce.com
+# omks.valuecommerce.com
+# aplkp.valuecommerce.com
+# aml.valuecommerce.com
+# adpresso.valuecommerce.com
+# ad.valuecommerce.com
+# ad.jp.ap.valuecommerce.com
+# ad.hatena.ne.jp
+# j-a-net.jp
+# ad.dmm.com
+# banner.cybershop-affiliate.jp
+# link-a.net
+# linkshare.com
+# linkshare.ne.jp
+# cnt.affiliate.fc2.com
+# af-110.com
+# af.moshimo.com
