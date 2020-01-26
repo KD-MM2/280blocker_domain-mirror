@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-01-05
+# Lastupdate: 2020-01-15
 #
 
 
@@ -30,7 +30,6 @@ accessup.goldcows.com
 act.ameba.jp
 ad-alp.net
 ad-analyze.jp
-ad-api-v01.uliza.jp
 ad-arata.com
 ad-arata.s3.amazonaws.com
 ad-bemti.com
@@ -194,7 +193,6 @@ afte.mopo.jp
 aid-ad.jp
 aimg.fc2.com
 aja-recommend.com
-aka-uae-dl.uliza.jp
 alogs.umengcloud.com
 amoad.com
 analytics.cocolog-nifty.com
@@ -1039,10 +1037,17 @@ cadsecs.com
 bilsyndication.com
 madcpms.com
 ad.smaato.net
-guce.engadget.com
 ads.nicovideo.jp
 px.ads.linkedin.com
 adpon-prd-asset.sslcs.cdngc.net
+s.206ads.com
+aoyou.idealads.net
+tracking.yohoads.com
+clk.furthermoreads.com
+cdn.tpdads.com
+ads.mobring.co
+ads.adorca.com
+cdn.tpdads.com
 
 
 # googleadservices.com
