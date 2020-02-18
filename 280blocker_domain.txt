@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-01-15
+# Lastupdate: 2020-02-05
 #
 
 
@@ -778,7 +778,6 @@ rec1.smt.docomo.ne.jp
 adv.ad-splash.jp
 h.parrable.com
 cdn.lodeo.io
-ad.a-ads.com
 tags.h12-media.com
 ad.tokyo-tube-ad.com
 st.bebi.com
@@ -1047,7 +1046,13 @@ clk.furthermoreads.com
 cdn.tpdads.com
 ads.mobring.co
 ads.adorca.com
-cdn.tpdads.com
+a-ads.com
+springserve.com
+inpagepush.com
+img.gs-ad.jp
+allmygreatestlife.com
+pvclouds.com
+modulepush.com
 
 
 # googleadservices.com
