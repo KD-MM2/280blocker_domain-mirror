@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-02-05
+# Lastupdate: 2020-02-26
 #
 
 
@@ -1053,6 +1053,12 @@ img.gs-ad.jp
 allmygreatestlife.com
 pvclouds.com
 modulepush.com
+adziondin.club
+koindut.com
+ads.2mdnsys.com
+exdynsrv.com
+terrapsps.com
+runative-syndicate.com
 
 
 # googleadservices.com
