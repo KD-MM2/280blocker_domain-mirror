@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-02-29
+# Lastupdate: 2020-03-01
 #
 
 
@@ -1060,6 +1060,16 @@ exdynsrv.com
 terrapsps.com
 tag.vlitag.com
 runative-syndicate.com
+iociley.com
+instantresp.com
+erosyndc.com
+neppa-dsp-ad.com
+cdn.neppa-adsv.com
+jads.co
+ads-delivery.gunosy.com
+thofigdot.club
+statcounter.com
+realtime-bid.com
 
 
 # googleadservices.com
