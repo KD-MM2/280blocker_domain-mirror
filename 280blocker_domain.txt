@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-03-01
+# Lastupdate: 2020-03-12
 #
 
 
@@ -1070,6 +1070,7 @@ ads-delivery.gunosy.com
 thofigdot.club
 statcounter.com
 realtime-bid.com
+adsco.re
 
 
 # googleadservices.com
