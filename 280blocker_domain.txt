@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-03-12
+# Lastupdate: 2020-03-19
 #
 
 
@@ -1071,6 +1071,15 @@ thofigdot.club
 statcounter.com
 realtime-bid.com
 adsco.re
+clfvfumqqok.com
+ycxtpbfcsl.com
+offers.verajohn.com
+adxadserv.com
+allmyverygreatlife.com
+find-my-great-life.com
+mygoodlives.com
+adspyglass.com
+realvu.net
 
 
 # googleadservices.com
