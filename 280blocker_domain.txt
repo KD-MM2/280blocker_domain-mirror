@@ -1,4 +1,4 @@
-﻿# 280blocker adblock domain lists 
+﻿# 280blocker adblock domain lists （)
 # 
 # Homepage: https://280blocker.net
 # Licence: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -7,13 +7,12 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-03-19
+# Lastupdate: 2020-04-04
 #
 
 
 pagead2.googlesyndication.com
 exosrv.com
-omtrdc.net
 coremetrics.com
 100651.advision-adnw.jp
 2.chmato.me
@@ -1080,6 +1079,15 @@ find-my-great-life.com
 mygoodlives.com
 adspyglass.com
 realvu.net
+herepackagine.info
+dryzapsol.com
+yads.c.yimg.jp
+ybx.yahoo.co.jp
+verajohn.com
+originalsecurecn.com
+d141wsrw9m4as6.cloudfront.net
+dc5k8fg5ioc8s.cloudfront.net
+dmxleo.dailymotion.com
 
 
 # googleadservices.com
