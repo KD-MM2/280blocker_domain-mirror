@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-04-04
+# Lastupdate: 2020-04-16
 #
 
 
@@ -1088,6 +1088,8 @@ originalsecurecn.com
 d141wsrw9m4as6.cloudfront.net
 dc5k8fg5ioc8s.cloudfront.net
 dmxleo.dailymotion.com
+sch.line.me
+d18g6t7whf8ejf.cloudfront.net
 
 
 # googleadservices.com
