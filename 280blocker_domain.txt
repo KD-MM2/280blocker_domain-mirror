@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-05-01
+# Lastupdate: 2020-05-09
 #
 
 
@@ -1054,7 +1054,6 @@ modulepush.com
 adziondin.club
 koindut.com
 ads.2mdnsys.com
-exdynsrv.com
 terrapsps.com
 tag.vlitag.com
 runative-syndicate.com
@@ -1095,7 +1094,7 @@ sub2.avgle.com
 olmsoneenh.info
 allmygoodlife.com
 cogleapad.com
-
+woovooza.net
 
 
 # googleadservices.com
