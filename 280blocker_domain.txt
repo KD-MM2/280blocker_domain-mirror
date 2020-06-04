@@ -7,7 +7,6 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-05-09
 #
 
 
@@ -1079,7 +1078,6 @@ adspyglass.com
 realvu.net
 herepackagine.info
 dryzapsol.com
-yads.c.yimg.jp
 ybx.yahoo.co.jp
 verajohn.com
 originalsecurecn.com
@@ -1095,6 +1093,10 @@ olmsoneenh.info
 allmygoodlife.com
 cogleapad.com
 woovooza.net
+gacraft.jp
+cdn.byplay.net
+aukana.jp
+adform.net
 
 
 # googleadservices.com
