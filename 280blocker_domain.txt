@@ -7,6 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
+# Lastupdate: 2020-00-00
 #
 
 
@@ -338,7 +339,6 @@ exoclick.com
 eyeota.net
 fam-ad.com
 fam-movie.com
-feed.mikle.com
 fine-tv.net
 fivecdm.com
 fluct.jp
@@ -539,7 +539,6 @@ petametrics.com
 pixel.wp.com
 polymorphicads.jp
 popads.net
-api.popin.cc
 porno-tv.com
 poweredbyliquidfire.mobi
 ppgcm.profilepassport.jp
@@ -1097,6 +1096,21 @@ gacraft.jp
 cdn.byplay.net
 aukana.jp
 adform.net
+r.popin.cc
+feedblitz.com
+tryworks.website
+cnt.crs.ec-concier.com
+etahub.com
+trafficjunky.com
+contentabc.com
+adcampo.com
+roujaufu.net
+yandex.ru
+guardapl.com
+waqool.com
+moonicorn.network
+static.doubleclick.net
+
 
 
 # googleadservices.com
