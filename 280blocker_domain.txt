@@ -7,7 +7,7 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-00-00
+# Lastupdate: 2020-01-01
 #
 
 
@@ -116,7 +116,7 @@ adjust-net.jp
 adjust-sp.jp
 adk2x.com
 adlantis.jp
-adlib.cptv.jp 
+adlib.cptv.jp
 adlpo.com
 adm.fwmrm.net
 adm.shinobi.jp
@@ -817,8 +817,8 @@ play.entretenimientolz.com
 adferns.go2affise.com
 bannerfarm.aolp.jp
 advbanners.global.ssl.fastly.net
-my-softbank-jp.com 
-mysoftbank-jp.com 
+my-softbank-jp.com
+mysoftbank-jp.com
 nttdocomo-service.com
 www.rakuten-contect-japan-servicc.com
 services-rakutencard.com
@@ -1105,12 +1105,19 @@ trafficjunky.com
 contentabc.com
 adcampo.com
 roujaufu.net
-yandex.ru
 guardapl.com
 waqool.com
 moonicorn.network
 static.doubleclick.net
-
+widget-view.dmm.co.jp
+widget.cybershop-affiliate.jp
+o333o.com
+vipicmou.net
+rekovers.ru
+yieldpass.com
+realpush.media
+js.isboost.co.jp
+mc.yandex.ru
 
 
 # googleadservices.com
