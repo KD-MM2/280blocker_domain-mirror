@@ -7,7 +7,6 @@
 # Subdomain is not described. 
 # Please use it in a system that can block subdomains.
 #
-# Lastupdate: 2020-01-01
 #
 
 
@@ -1116,8 +1115,54 @@ vipicmou.net
 rekovers.ru
 yieldpass.com
 realpush.media
-js.isboost.co.jp
 mc.yandex.ru
+ad-web-ad.com
+ad999.biz
+ads.superawesome.tv
+ads.yieldmo.com
+adscfg.togothermany.cn
+adsoss.gzfingertip.cn
+allbestsecurecn.com
+api.saypromo.net
+assets.dspunion.com
+bds.snssdk.com
+cdn-f.adsmoloco.com
+cdn-gcs.outfit7.com
+cdn.outfit7.com
+cdp.cloud.unity3d.com
+collect11442ldybg.deltadna.net
+collect16785svthg.deltadna.net
+config.uca.cloud.unity3d.com
+conversions.appsflyer.com
+count.xxxssk.com
+dm.bytedance.com
+ecommerce.iap.unity3d.com
+events-api.outfit7.com
+gdpr.fc2.com
+launches.appsflyer.com
+match.adsby.bidtheatre.com
+molocoads.com
+ncourtainco.club
+newplayable.dspunion.com
+p16.hypstarcdn.com
+pb.ladsp.com
+piwik.fc2.com
+piwik2.fc2.com
+promo-images.ttpsdk.info
+saygames.sfo2.cdn.digitaloceanspaces.com
+saypromo.sfo2.cdn.digitaloceanspaces.com
+snva.jp
+soafov.ru
+splash-screen.voodoo-ads.io
+sync.srv.stackadapt.com
+tr-us.adsmoloco.com
+track.saygames.io
+track.tenjin.com
+tracker.mtrtb.com
+v16-ad.byteoversea.com
+verajohn.digital
+vs-api.voodoo-tech.io
+www.ads-i.org
 
 
 # googleadservices.com
