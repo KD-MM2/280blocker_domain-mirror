@@ -8,7 +8,8 @@
 # Please use it in a system that can block subdomains.
 #
 #
-
+# Lastupdate: 2020-08-18
+#
 
 pagead2.googlesyndication.com
 exosrv.com
@@ -1151,7 +1152,6 @@ piwik2.fc2.com
 promo-images.ttpsdk.info
 saygames.sfo2.cdn.digitaloceanspaces.com
 saypromo.sfo2.cdn.digitaloceanspaces.com
-snva.jp
 soafov.ru
 splash-screen.voodoo-ads.io
 sync.srv.stackadapt.com
@@ -1163,6 +1163,16 @@ v16-ad.byteoversea.com
 verajohn.digital
 vs-api.voodoo-tech.io
 www.ads-i.org
+podcast.svenskafans.com
+clickserve.dartsearch.net
+useurmind.com
+secure-upgrade.com
+mediamodern.biz
+d3ithbwcmjcxl7.cloudfront.net
+c.sharethis.mgr.consensu.org
+t.sharethis.com
+dq3yxnlzwhcys.cloudfront.net
+
 
 
 # googleadservices.com
