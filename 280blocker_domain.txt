@@ -8,7 +8,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2020-08-18
+# Lastupdate: 2020-08-28
 #
 
 pagead2.googlesyndication.com
@@ -360,7 +360,7 @@ gigazine.asia
 glam.com
 global.msmtrakk06d.com
 glossom.co.jp
-glossom.jp
+adcorsa.glossom.jp
 glssp.jp
 glssp.net
 gmossp-sp.jp
@@ -399,7 +399,6 @@ image.d-064.com
 img.bbchat.tv
 img.mobee2.jp
 imgcdn01.formulas.jp
-in.treasuredata.com
 ingameads.gameloft.com
 ingameads2.gameloft.com
 ingamesads.gameloft.com
@@ -1172,6 +1171,10 @@ d3ithbwcmjcxl7.cloudfront.net
 c.sharethis.mgr.consensu.org
 t.sharethis.com
 dq3yxnlzwhcys.cloudfront.net
+date-this-supergirl3.com
+vpn3aprotectplus.com
+securityvpnapp.com
+offers.intercasino.com
 
 
 
